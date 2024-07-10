@@ -10,6 +10,8 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 ```shell
 npx husky-init
+
+npx husky add .husky/commit-msg
 ```
 
 #### 安装大菠萝 pinia
