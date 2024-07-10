@@ -5,7 +5,6 @@
     </a>
   </div>
 
-
   <HelloWorld msg="Vite + Vue" />
   <Pagination></Pagination>
 </template>

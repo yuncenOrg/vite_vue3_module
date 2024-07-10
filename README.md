@@ -4,7 +4,6 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 
-
 ### 初始化项目
 
 #### commit husky 正常运行
@@ -12,7 +11,6 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 ```shell
 npx husky-init
 ```
-
 
 #### 安装大菠萝 pinia
 

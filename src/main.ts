@@ -16,8 +16,6 @@ import globalComponent from '@/components'
 import router from '@/router'
 import pinia from '@/store'
 
-
-
 import App from './App.vue'
 // 获取实例对象
 const app = createApp(App)
@@ -25,8 +23,8 @@ const app = createApp(App)
 // 安装自定义插件, 会主动把 @/components/index.ts 里面的 install() 引入进来
 app.use(globalComponent)
 app.use(ElementPlus, {
-    // element-plus 国际化配置
-    locale: zhCn,
+  // element-plus 国际化配置
+  locale: zhCn,
 })
 // 安装路由
 app.use(router)
