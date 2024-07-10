@@ -3,7 +3,6 @@
 
 # 需要在控制台执行
 # npx husky-init
-# npx husky add .husky/commit-msg
 # 才可以把配置到 commit 回调里面
 # 提交到远程之前会执行下面的命令
 pnpm format
